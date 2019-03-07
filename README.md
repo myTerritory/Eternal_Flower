@@ -23,24 +23,7 @@ npm run serve
 npm run build
 
 ### 项目目录
-├── README.md                            # 项目说明
-├── babel.config.js                        # babel配置文件
-├── package-lock.json                    
-├── package.json  
-├── public                                      # 公用目录 （存在首页入口文件、静态资源）
-├── src                                            # 核心代码目录
-│   ├── App.vue                            # 组件入口文件
-│   ├── network                            # 接口服务
-│   ├── assets                               # 静态目录（存放图片，插件等）
-│   ├── components                   # 公用组件库
-│   ├── common                         # 公用工具类
-│   ├── main.js                            # 项目js入口文件，包括路由配置等
-│   ├── router                             # 路由配置
-│   ├── store                               # vuex状态管理
-│   └── views                              # 视图目录
-│── mydata.mssql
-└── vue.config.js
-
+![](./src/assets/img/githug/lu.jpg)
 
 ### 另：已附上MySQL数据库，详情参考mydata.mssql文件 
 See [Configuration Reference](https://cli.vuejs.org/config/).
